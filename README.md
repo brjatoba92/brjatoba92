@@ -3,6 +3,7 @@
 # 💫 About Me:
 Hello! Welcome to my profile. My name is Bruno, I'm 32 years old and I live in Maceió, AL. I am a developer with a keen interest in data analysis, front-end and back-end development, and cloud computing.  <br>
 
+![AWS](https://img.shields.io/badge/AWS-1.0-blue)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brjatoba92/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunojatoba/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22973722/bruno-rafael-guimar%c3%a3es-jatob%c3%a1) 
