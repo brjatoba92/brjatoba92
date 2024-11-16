@@ -1,11 +1,11 @@
 # Hi, my name is Bruno Jatobá 👋
 
 # 💫 About Me:
-I'm currently job projects development in JavaScript , CSS and React.js projects <br>
+Hello! Welcome to my profile. My name is Bruno, I'm 32 years old and I live in Maceió, AL. I am a developer with a keen interest in data analysis, front-end and back-end development, and cloud computing.  <br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brjatoba92/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-jatob%C3%A1-46a6601bb/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22973722/bruno-rafael-guimar%c3%a3es-jatob%c3%a1) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brjatoba92/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunojatoba/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22973722/bruno-rafael-guimar%c3%a3es-jatob%c3%a1) 
 
 # 💻 Tech Stack:
 ## Currently
