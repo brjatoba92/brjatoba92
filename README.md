@@ -4,7 +4,7 @@
 - Python Developper
 - React with TailwindCSS Developper
 - 1x AWS
-.  <br>
+<br>
 
 # My Techs
 
@@ -17,6 +17,7 @@
     <img align="center" alt="Bruno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
     <img align="center" alt="Bruno-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </div>
+<br>
 
 # Contact me
 <div>
@@ -39,10 +40,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brjatoba92&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<div>
-    <a href="https://>
-</div>
